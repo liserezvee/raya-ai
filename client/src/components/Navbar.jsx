@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className="fixed z-5 w-full backdrop-blur-2xl flex justify-between items-center py-3 px-4 sm:px-20 xl:px-32">
       <p className="w-32 sm:w-44 cursor-pointer text-2xl font-extrabold" onClick={() => navigate("/")}>
-        Rava.Ai
+        Raya.Ai
       </p>
       {user ? (
         <UserButton />
