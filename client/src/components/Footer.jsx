@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="md:max-w-96">
           <img className="h-9" src={assets.logo} alt="dummyLogoDark" />
           <p className="mt-6 text-sm">
-            Experience the Power of AI with Rava <br />
+            Experience the Power of AI with Raya <br />
             Transform your content creation with our suite of premium AI tools.
             Write articles, generate images and enhance your workflow.
           </p>

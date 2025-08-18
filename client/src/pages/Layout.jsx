@@ -14,7 +14,7 @@ const Layout = () => {
     <div className="flex flex-col items-start justify-start h-screen">
       <nav className="w-full px-8 min-h-14 flex items-center justify-between border-b border-gray-200">
       <p className="w-32 sm:w-44 cursor-pointer text-2xl font-extrabold" onClick={() => navigate("/")}>
-        Rava.Ai
+        Raya.Ai
       </p>
         {sidebar ? (
           <X
